@@ -7,6 +7,7 @@ public class hello {
 
 		
 		System.out.println("Hello!!!, welcome to the fellowship");
+                System.out.println("Updated some coded");
 		System.out.println("Get  ready !!!");
 	}
 	
